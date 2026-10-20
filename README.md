@@ -5,7 +5,7 @@ https://meme-flip.netlify.app/ click for the live demo.
 The concept of this project is to have fun while learning HTML and DOM.<br />
 * HTML <br />
 * CSS <br />
-* Javascript <br />
+* Javascript. <br />
 
 ## Contributing
 
